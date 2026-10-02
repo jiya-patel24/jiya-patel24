@@ -17,23 +17,26 @@
 
 ## 👩‍💻 Who I Am
 
+I'm a second-year Computer Engineering student at Vishwakarma Institute of Technology, Pune. I build machine learning and algorithm projects in Python and C++, and I'm learning by shipping them.
+
 ```ts
 const jiya = {
-  title: "B.Tech Computer Engineering Student (2nd year) @ Vishwakarma Institute of Technology, Pune",
-  stack: ["Python", "C++", "pandas", "NumPy", "scikit-learn", "Matplotlib", "Seaborn"],
+  title: "B.Tech CE Student (2nd year), VIT Pune",
+  stack: ["Python", "C++", "pandas", "NumPy",
+          "scikit-learn", "Matplotlib", "Seaborn"],
   launchedProjects: [
     "Cardiovascular Disease Prediction",
     "Network Resilience Analyzer",
     "Student Retention Analysis (learning exercise)",
   ],
   certifications: [
-    "Introduction to Artificial Intelligence - Infosys Springboard",
-    "Introduction to Deep Learning - Infosys Springboard",
-    "C++ Programming - GreyLearn",
-    "Google Skills - public profile",
+    "Intro to AI (Infosys Springboard)",
+    "Intro to Deep Learning (Infosys Springboard)",
+    "C++ Programming (GreyLearn)",
+    "Google Skills (public profile)",
   ],
   status: "Studying and building projects",
-  openTo: ["Internship (possibly next year, in third year)"],
+  openTo: ["Internship (maybe next year, in 3rd year)"],
 };
 ```
 
@@ -120,15 +123,7 @@ Finds single points of failure (articulation points) in a network graph, ranks e
 
 <img src="https://streak-stats.demolab.com/?user=jiya-patel24&theme=nord&background=161B22&border=30363D&ring=58A6FF&fire=A371F7&currStreakLabel=58A6FF&sideLabels=F0F6FC&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=8B949E&stroke=30363D&hide_border=false" alt="GitHub streak" />
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=jiya-patel24&theme=nord&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub trophies" />
-
 </div>
-
-### 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jiya-patel24&bg_color=0D1117&color=F0F6FC&line=58A6FF&point=A371F7&area=true&area_color=58A6FF&hide_border=true" alt="Contribution graph" width="100%" />
 
 ---
 
